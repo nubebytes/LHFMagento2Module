@@ -26,7 +26,8 @@
             "type": "vcs",
             "url": "https://github.com/nubebytes/LHFMagento2Module.git"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
 
 
